@@ -126,11 +126,15 @@
 		}
 	?>	
 
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-128956685-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-128956685-1');
 </script>
-<script type="text/javascript">
-_uacct = "UA-2468674-1";
-urchinTracker();
-</script>
+
 </body>
 </html>
