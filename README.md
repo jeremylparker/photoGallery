@@ -14,3 +14,7 @@ Written using:
   - PHP
   - Javascript
   
+Go here to see a live version of the gallery:
+
+http://www.jparkerstudio.com/gallery
+
